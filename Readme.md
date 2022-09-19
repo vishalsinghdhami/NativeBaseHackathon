@@ -1,3 +1,6 @@
+![Certificate](HackathonCertificate.png)
+
+
 # NativeBase Expo Template
 
 The official NativeBase template for [Expo](https://docs.expo.io/)

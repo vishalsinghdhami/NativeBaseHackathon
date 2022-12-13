@@ -2,12 +2,6 @@
 
 
 # NativeBase Expo Template
-
-
-
-## Usage
-
-```
 ![Certificate](HackathonCertificate.png)
 ![1](1st.png)
 ![2](2nd.png)
@@ -18,4 +12,10 @@
 ![8](8th.png)
 ![9](9th.png)
 ![10](10th.png)
-![11](11th.png)```
+![11](11th.png)
+
+
+## Usage
+
+```
+```

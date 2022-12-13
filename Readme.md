@@ -3,7 +3,7 @@
 
 # NativeBase Expo Template
 ![HackathonCertificate](https://user-images.githubusercontent.com/83884792/207400519-20f2d1b7-db00-4a97-9ec3-e978d2e33a51.png)
-
+```
 ![1st](https://user-images.githubusercontent.com/83884792/207400396-ba54149f-3444-41a7-9025-df7a29b2f296.png)
 
 ![2nd](https://user-images.githubusercontent.com/83884792/207400423-2dd8f88b-e7d4-435d-86cc-030668f7adad.png)
@@ -15,7 +15,7 @@
 ![9th](https://user-images.githubusercontent.com/83884792/207400448-8819da1c-bf2b-4aef-8fbe-4981ccda2c2f.png)
 ![10th](https://user-images.githubusercontent.com/83884792/207400452-aef0aad8-2f1b-4bed-8af8-41aadf7612e6.png)
 ![11th](https://user-images.githubusercontent.com/83884792/207400454-b872130f-0f46-4c63-a76d-4d09f70c3df0.png)
-
+```
 
 ## Usage
 
